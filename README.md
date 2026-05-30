@@ -11,4 +11,4 @@
 - Backend
 
 ## Website
-https://bro-pixel11.github.io/DogeCasino/
+https://dogecasinohub.github.io/DogeCasino/
